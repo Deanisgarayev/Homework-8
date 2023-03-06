@@ -32,7 +32,6 @@ public class Main {
             System.out.println(things[c]);
         }
     }
-
     public static void task2() {
         System.out.println("Задача 2");
         int[] cars = new int[]{1, 2, 3};
@@ -65,8 +64,6 @@ public class Main {
             }
             System.out.println();
         }
-
-
     public static void task3() {
         System.out.println("Задача 3");
         int[] cars = new int[]{1, 2, 3};
